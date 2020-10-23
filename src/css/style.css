@@ -1,0 +1,44 @@
+.logo{
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+     color: #252d4a;
+     position: fixed !important;
+     left: 10;
+     top: 4;
+     margin: 1rem;
+}
+.cards{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card{
+     width: 350px;
+     height: 200px;
+     padding: 1rem;
+     margin: 1rem;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     background: #252d4a;
+     color: white;
+     border-radius: 10px;
+}
+.card p{
+     font-size: 1.05rem;
+     margin: 1rem 0rem;
+}
+.btn{
+     border: 2px solid white;
+}
+
+@media(max-width: 500px)
+{
+     .cards{
+          flex-direction: column;
+     }
+}
