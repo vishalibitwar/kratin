@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kratin/static/css/main.28d48a8d.chunk.css",
+    "main.js": "/kratin/static/js/main.3cd68568.chunk.js",
+    "main.js.map": "/kratin/static/js/main.3cd68568.chunk.js.map",
+    "runtime-main.js": "/kratin/static/js/runtime-main.9321a371.js",
+    "runtime-main.js.map": "/kratin/static/js/runtime-main.9321a371.js.map",
+    "static/js/2.4e5ea661.chunk.js": "/kratin/static/js/2.4e5ea661.chunk.js",
+    "static/js/2.4e5ea661.chunk.js.map": "/kratin/static/js/2.4e5ea661.chunk.js.map",
+    "index.html": "/kratin/index.html",
+    "precache-manifest.72000ce98fcb3158473a8ec940a0e1de.js": "/kratin/precache-manifest.72000ce98fcb3158473a8ec940a0e1de.js",
+    "service-worker.js": "/kratin/service-worker.js",
+    "static/css/main.28d48a8d.chunk.css.map": "/kratin/static/css/main.28d48a8d.chunk.css.map",
+    "static/js/2.4e5ea661.chunk.js.LICENSE.txt": "/kratin/static/js/2.4e5ea661.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9321a371.js",
+    "static/js/2.4e5ea661.chunk.js",
+    "static/css/main.28d48a8d.chunk.css",
+    "static/js/main.3cd68568.chunk.js"
+  ]
+}
