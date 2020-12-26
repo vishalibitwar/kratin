@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5d9608bc978d100533a09f5d5f967ea",
+    "revision": "4fcfa47425cb965c75a428273f5d0565",
     "url": "/kratin/index.html"
   },
   {
-    "revision": "0a6942b03554aff8915d",
-    "url": "/kratin/static/css/main.28d48a8d.chunk.css"
+    "revision": "fa640290755b0179be73",
+    "url": "/kratin/static/css/main.9ea99c73.chunk.css"
   },
   {
     "revision": "d5d4ae438c63e88177ee",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kratin/static/js/2.4e5ea661.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a6942b03554aff8915d",
-    "url": "/kratin/static/js/main.3cd68568.chunk.js"
+    "revision": "fa640290755b0179be73",
+    "url": "/kratin/static/js/main.6bc710ec.chunk.js"
   },
   {
     "revision": "3650fdc396ca47447099",
